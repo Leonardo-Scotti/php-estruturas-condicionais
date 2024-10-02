@@ -1,5 +1,5 @@
 <?php
-include ('./includes/header-3.php');
+include ('./includes/header.php');
 
 $languages = $_POST['languages'];
 
@@ -40,4 +40,4 @@ switch ($languages) {
         break;
     }
 
-include ('./includes/footer-3.php');
+include ('./includes/footer.php');

@@ -1,5 +1,5 @@
 <?php
-include ('./includes/header-3.php');
+include ('./includes/header.php');
 
 echo "<h2>Exemplo de utilização de IF / ELSE</h2>";
 
@@ -18,4 +18,4 @@ if($mod == 0){
     echo "O número {$number} é impar.";
 }
 
-include ('./includes/footer-3.php');
+include ('./includes/footer.php');

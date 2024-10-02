@@ -1,4 +1,4 @@
 <?php
-include('./includes/header-3.php');
+include('./includes/header.php');
 include('content.php');
-include('./includes/footer-3.php');
+include('./includes/footer.php');
